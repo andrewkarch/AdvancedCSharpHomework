@@ -1,0 +1,6 @@
+E:\Dropbox\Current Projects\Assignment14Final2\Assignment14Final2\bin\Debug\Assignment14Final2.dll.config
+E:\Dropbox\Current Projects\Assignment14Final2\Assignment14Final2\bin\Debug\Assignment14Final2.dll
+E:\Dropbox\Current Projects\Assignment14Final2\Assignment14Final2\bin\Debug\Assignment14Final2.pdb
+E:\Dropbox\Current Projects\Assignment14Final2\Assignment14Final2\obj\Debug\Assignment14Final2.dll
+E:\Dropbox\Current Projects\Assignment14Final2\Assignment14Final2\obj\Debug\Assignment14Final2.pdb
+E:\Dropbox\Current Projects\Assignment14Final2\Assignment14Final2\obj\Debug\Assignment14Final2.csprojResolveAssemblyReference.cache

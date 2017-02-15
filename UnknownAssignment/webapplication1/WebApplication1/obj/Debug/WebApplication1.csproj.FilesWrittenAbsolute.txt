@@ -1,0 +1,7 @@
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/bin/Assignment2.dll.mdb
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/bin/Assignment2.pdb
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/bin/Assignment2.dll
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/obj/Debug/Assignment2.dll
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/obj/Debug/Assignment2.dll.mdb
+/Users/andrew/GitLab/Advanced C#/UnknownAssignment/webapplication1/WebApplication1/obj/Debug/Assignment2.pdb

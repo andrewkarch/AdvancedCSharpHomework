@@ -1,0 +1,56 @@
+﻿.manageMenu
+{
+    border: 3px solid #eeeeee;
+    width: 350px;
+    padding-left: 10px;
+	text-align: left;
+}
+
+.manageMenu p.menuHeading
+{
+    font-size: 1.1em;
+    color: #000000;
+}
+
+.manageMenu input.item
+{
+    font-size: 1.1em;
+	background-repeat: repeat-x;
+	width: 250px;
+}
+
+.formPanel
+{
+    border: 3px solid #eeeeee;
+    width: 700px;
+    padding: 10px;
+	text-align: left;
+	float: left;
+}
+
+.formControlPanelLeft
+{
+    float: left;
+    text-align: right;
+}
+
+.formControlPanelRight
+{
+    text-align: left;
+}
+
+#lblFormName
+{
+    font-size: 1.6em;
+}
+
+.formLabel
+{
+    padding-bottom: 10px;
+}
+
+.formInput
+{
+    margin-left: 4px;
+    margin-bottom: -5px;
+}

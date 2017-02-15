@@ -1,0 +1,10 @@
+E:\Dropbox\Current Projects\Assignment12\Assignment12\bin\Assignment12.dll
+E:\Dropbox\Current Projects\Assignment12\Assignment12\bin\Assignment12.pdb
+E:\Dropbox\Current Projects\Assignment12\Assignment12\obj\Debug\Assignment12.dll
+E:\Dropbox\Current Projects\Assignment12\Assignment12\obj\Debug\Assignment12.pdb
+E:\Dropbox\Current Projects\Assignment12\Assignment12\obj\Debug\Assignment12.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Assignment12\Assignment12\bin\Assignment12.dll
+C:\Users\Andrew\Desktop\Assignment12\Assignment12\bin\Assignment12.pdb
+C:\Users\Andrew\Desktop\Assignment12\Assignment12\obj\Debug\Assignment12.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Assignment12\Assignment12\obj\Debug\Assignment12.dll
+C:\Users\Andrew\Desktop\Assignment12\Assignment12\obj\Debug\Assignment12.pdb

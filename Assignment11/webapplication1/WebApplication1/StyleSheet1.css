@@ -1,0 +1,19 @@
+﻿h1 
+{
+    color:Red;
+    text-decoration:bold;
+    font-size:2.5em;
+}
+h2
+{
+    text-decoration:underline;
+} 
+body 
+{
+    background-image:url('BG.jpg');} 
+    background-repeat:repeat-y;
+}
+img 
+{
+    text-align: center;
+}

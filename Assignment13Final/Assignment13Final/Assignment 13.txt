@@ -1,0 +1,5 @@
+Please add the following requirements to Assignment 12:
+
+4.)  Use jQuery to use Tabs instead of the Master Page/Content Pages and a Menu instead of DetailsView, ListView and GridView.  Place the attached jQuery JavaScript files in the Scripts folder.
+5.) Add content from Assignment 13 to Assignment 12 or Visa Versa
+6.) Customize and Format
